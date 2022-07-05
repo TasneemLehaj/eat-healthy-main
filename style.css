@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 60px
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.violet {
+    color: blueviolet;
+}
+
+.eat-healthy {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    height: 600px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(137, 227, 237);
+    font-weight: bold;
+    color: blueviolet;
+    border: 20px;
+    padding: 5px;
+    border-radius: 4px;
+
+}
